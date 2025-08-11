@@ -23,6 +23,10 @@ youtube-focus-extension/
 
 ## Installation and Use
 
+
+
+
+
 1. Download and unzip the extension folder.
 2. Open Chrome and go to `chrome://extensions/`.
 3. Turn on **Developer Mode** (switch in the top right).
@@ -32,7 +36,7 @@ youtube-focus-extension/
 7. Use the checkboxes to enable or disable homepage blur and Shorts blocking.
 8. Changes apply immediately to any open YouTube tab.
 
-[▶ Watch Preview Video](previewvideo/assets.mp4)
+[▶ Watch Preview Video](https://github.com/user-attachments/assets/239d008c-3c4d-4988-aa34-9165c2ebb788)
 
 
 
