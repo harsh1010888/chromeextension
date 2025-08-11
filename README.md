@@ -8,16 +8,16 @@ No tracking, no ads — works entirely in your browser.
 ## 📂 Folder Structure
 
 youtube-focus-extension/
-│
-├── content.js          # Main logic for blurring feed and blocking Shorts
-├── manifest.json       # Chrome extension configuration
-├── popup.html          # Popup UI
-├── popup.css           # Popup styling
-├── popup.js            # Popup controls logic
+├── content.js
+├── manifest.json
+├── popup.html
+├── popup.css
+├── popup.js
 ├── icons/
 │   ├── icon16.png
 │   └── icon48.png
-└── README.md           # This file
+└── README.md
+
 
 ## Installation and Use
 
