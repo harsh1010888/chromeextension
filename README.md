@@ -14,8 +14,10 @@ No tracking, no ads — works entirely in your browser.
 ## 📂 Folder Structure
 
 ## Folder Structure
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e82beb8-73ab-4bbc-a1eb-92550aca1b93" alt="Screenshot" width="600"/>
+</p>
 
-![Alt text]( src="https://github.com/user-attachments/assets/5e82beb8-73ab-4bbc-a1eb-92550aca1b93")
 
 ## Installation and Use
 
