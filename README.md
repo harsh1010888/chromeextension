@@ -1,4 +1,10 @@
 # YouTube Focus Chrome Extension
+Porblem : distraction by tumbnails and irrelevant tumbnails 
+solution : blur the homepage suggestion section , limited viewing time of shorts if you visit in youtube shorts section for more than 5 sec
+it will refresh the whole page .
+
+features: option of enabling the and  disabling the function for extension section according to need .
+
 
 This Chrome extension helps you avoid distractions on YouTube.  
 It can blur the homepage feed so you don’t get caught in endless scrolling and can disable Shorts by redirecting them back to the homepage.  
