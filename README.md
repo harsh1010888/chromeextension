@@ -15,25 +15,11 @@ No tracking, no ads — works entirely in your browser.
 
 ## Folder Structure
 
-youtube-focus-extension/
-├── content.js          # Main logic for blurring feed and blocking Shorts
-├── manifest.json       # Chrome extension configuration
-├── popup.html          # Popup UI
-├── popup.css           # Popup styling
-├── popup.js            # Popup controls logic
-├── icons/
-│   ├── icon16.png
-│   └── icon48.png
-└── README.md           # This file
-
+![Alt text]( src="https://github.com/user-attachments/assets/5e82beb8-73ab-4bbc-a1eb-92550aca1b93")
 
 ## Installation and Use
 
-
-
-
-
-1. Download and unzip the extension folder.
+1. Download extension folder.
 2. Open Chrome and go to `chrome://extensions/`.
 3. Turn on **Developer Mode** (switch in the top right).
 4. Click **Load unpacked** and select the unzipped folder.
