@@ -1,5 +1,5 @@
 # YouTube Focus Chrome Extension
-Porblem : distraction by tumbnails and irrelevant tumbnails 
+Porblem : distraction by **youtube shorts and irrelevant tumbnails **.
 solution : blur the homepage suggestion section , limited viewing time of shorts if you visit in youtube shorts section for more than 5 sec
 it will refresh the whole page .
 
